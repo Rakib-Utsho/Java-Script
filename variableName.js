@@ -21,5 +21,11 @@ var user-name = "raj bappa"
 
 var user_name="bppa raj";
 var usercurrenthomeadderss="andor killa ban";
-var user_home_adderss="andor killa ban";
-var userHomeAdderss="andor killa ban"; //camel case
+var user_home_adderss="andor killa ban";//snake case
+var userHomeAdderss="andor killa ban"; //camel case; we will use this one
+var userHomeAdderss="andor killa ban"; //pascal case
+
+// variable name is case sensitive
+var person = 26;
+var Parson = 25;
+var Parson = 25;
