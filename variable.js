@@ -13,7 +13,7 @@ var location = "ami ekhon bandorbon";
 var special = 'borsha';
 
 // Boolen
-var series = true;
+var serious = true;
 var isFullMarks= true;
 var isSingle= false;
 
