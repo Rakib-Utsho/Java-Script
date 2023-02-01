@@ -12,5 +12,13 @@ var price2 = 10;
 // Price1= 35;
 
 // add some value to the existing value
-Price1 = Price1 + 10;
+// Price1 = Price1 + 10;
+// console.log(Price1);
+
+// addition to the same variable shorthand
+// add some value to the existing value
+Price1+=10;
 console.log(Price1);
+
+price2-=5;
+console.log(price2)
