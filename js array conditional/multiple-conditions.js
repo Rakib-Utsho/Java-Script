@@ -30,7 +30,7 @@ else{
     console.log('tor friend er number de');
 }
 
-if (isGraduated === true && (salary > 5000 || cars >=1))
+if (isGraduated === true && (salary > 5000 || cars >=1));
 
 
 
